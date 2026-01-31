@@ -1,7 +1,7 @@
 # iOS Swift ANE Starter Project  
 
 Example Xcode project showing how to create Air Native Extensions for iOS using Swift.
-It supports iOS 12.0+
+It supports iOS 15.0+
 
 #### Xcode Version 26.2 (17C52) must be used with Apple Swift version 6.2.3 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
 It is not possible to mix Swift versions in the same app. Therefore all Swift based ANEs must use the same exact version.
