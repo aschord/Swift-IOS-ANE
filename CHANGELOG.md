@@ -1,3 +1,7 @@
+### 6.2.3
+- Upgrade to Xcode 26.0
+- Upgrade to Swift version 6.2.3 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+
 ### 6.1.2
 - Upgrade to Xcode 16.4
 - Upgrade to Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)
